@@ -1,6 +1,8 @@
 {
-	"Student":"Alex",
-	"Tearche":"Done",
-	"Director":"Jone",
-	"Student":"Vadim"
+	"Last_name":"Yakovlev",
+	"First_name":"Dmitry",
+	"Additional_name":"Ivanovich",
+	"Age":"30",
+	"Domestic_animals":0,
+	"Salary":"600$"
 }
