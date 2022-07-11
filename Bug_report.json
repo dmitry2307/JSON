@@ -4,5 +4,6 @@
   "STR":"1 2 3",
   "Expected_result":"App normal",
   "Actual_result":"Crash app",
-  "Environment":"iPhone 11 iOS - 11.5.1"
+  "Environment":"iPhone 11 iOS - 11.5.1",
+  "Attachment":"Attach"
 }
